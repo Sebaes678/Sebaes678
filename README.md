@@ -1,5 +1,5 @@
-Hola mi nombre es Sebastian Espindola 
-Actualmente estoy realizando mis primeros pasos en progranacion
+Hola mi nombre es Sebastian  
+Actualmente estoy realizando mis primeros pasos en programacion
 Tengo muchisimas ganas de colaborar.
 Me pueden contactar en loginemtuc@gmail.com
 
